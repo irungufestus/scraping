@@ -1,0 +1,11 @@
+requests
+beautifulsoup4 
+pandas
+datetime
+Urllib3
+Selenium
+notebook
+from-root
+selectolax
+httpx
+-e .
