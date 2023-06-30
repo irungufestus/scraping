@@ -8,4 +8,5 @@ notebook
 from-root
 selectolax
 httpx
+ensure
 -e .

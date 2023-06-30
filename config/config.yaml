@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: f"https://books.toscrape.com/catalogue/category/books_1/page-{i}.html"
+  local_data_file: artifacts/data_ingestion/books.csv
+  output_dir: artifacts/data_ingestion
